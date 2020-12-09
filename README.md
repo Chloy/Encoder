@@ -1,3 +1,3 @@
 # University
 MyBlowfish - просто реализаций алгроитма.
-Encoder - сам проект
+Encrypter - сам проект
